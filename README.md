@@ -27,10 +27,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - edl
   - **E**mergency **D**ownload **M**ode (Qualcomm)
     - Sahara and DLOAD and DM / QCDM protocols
-- qdm
+- qdm, qcdm
   - **Q**ualcomm **D**iagnostic **M**onitor (`/dev/diag`?)
-- qcdm
-  - Same as **QDM**
 - qxdm
   - **Q**ualcomm e**X**tensible **D**iagnostic **M**onitor
 - laf

@@ -69,6 +69,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **B**AM **L**ow **S**peed **P**eripheral (Qualcomm) [link][blsp]
 - caf
   - **C**ode **A**urora **F**orums (Qualcomm FOSS)
+- sps
+  - **S**mart **P**eripheral **S**system (Qualcomm) [link][sps]
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
@@ -80,6 +82,7 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 [qup]: https://developer.qualcomm.com/qfile/28819/lm80-p0436-5_peripherals_programming_guide.pdf
 [blsp]: https://www.inforcecomputing.com/public_docs/BLSPs_on_Inforce_6540_6501_Snapdragon_805.pdf
 [bam]: https://lwn.net/Articles/582840/
+[sps]: http://thread.gmane.org/gmane.linux.ports.arm.msm/543
 
 ## TEE
 

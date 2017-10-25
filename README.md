@@ -96,7 +96,10 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - ssr
   - **S**ub**S**ystem **R**estart
 - mbn
-  - Qualcomm ELF image format with signature
+  - Qualcomm image format with signatures [link][mbn]
+- mdtp
+  - Mobile Device Theft Prevention (Qualcomm)
+
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
@@ -111,6 +114,7 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 [sps]: http://thread.gmane.org/gmane.linux.ports.arm.msm/543
 [slimbus]: https://en.wikipedia.org/wiki/SLIMbus
 [slimbus_qcom]: https://android.googlesource.com/kernel/msm/+/android-msm-hammerhead-3.4-kk-r1/Documentation/devicetree/bindings/slimbus/slim-msm-ctrl.txt
+[mbn]: https://github.com/vtsingaras/qcom-mbn-ida-loader/blob/master/qcom-mbn-ida-loader.cpp
 
 ## TEE
 

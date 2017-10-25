@@ -71,6 +71,20 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **C**ode **A**urora **F**orums (Qualcomm FOSS)
 - sps
   - **S**mart **P**eripheral **S**system (Qualcomm) [link][sps]
+- uart
+  - **U**niversal **A**synchronous **R**eceiver **T**rasnmitter
+- cts
+  - **C**lear **T**o **S**end (UART pin)
+- rts
+  - **R**eceive **T**o **S**end (UART pin)
+- dsp
+  - **D**igital **S**ignal **P**rocessor (e.g. Hexagon)
+- aDSP
+  - **A**pplication DSP
+- slimbus
+  - **S**erial **L**ow-power **I**nter-chip **M**edia **Bus** [link][slimbus] [qualcomm link][slimbus_qcom]
+- tdm
+  - **T**ime **D**ivision **M**ultiplexing
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
@@ -83,6 +97,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 [blsp]: https://www.inforcecomputing.com/public_docs/BLSPs_on_Inforce_6540_6501_Snapdragon_805.pdf
 [bam]: https://lwn.net/Articles/582840/
 [sps]: http://thread.gmane.org/gmane.linux.ports.arm.msm/543
+[slimbus]: https://en.wikipedia.org/wiki/SLIMbus
+[slimbus_qcom]: https://android.googlesource.com/kernel/msm/+/android-msm-hammerhead-3.4-kk-r1/Documentation/devicetree/bindings/slimbus/slim-msm-ctrl.txt
 
 ## TEE
 

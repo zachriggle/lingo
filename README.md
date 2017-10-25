@@ -12,3 +12,11 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **S**ecure **M**onitor **C**all (ARM instruction used by SCM)
 - qseecom
   - **Q**ualcomm **S**ecure **E**xecution **E**nvironment **Com**munication
+- xbl
+  - e**X**tensible **B**oot**L**oader (Qualcomm) [link][xbl]
+- pbl
+  - **P**rimary **B**oot**L**oader (Qualcomm) [link][xbl]
+- sbl
+  - **S**econdary **B**oot**L**oader (Qualcomm) [link][xbl]
+  
+  [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf

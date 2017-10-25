@@ -6,7 +6,7 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - qcacld
   - **Q**ual**C**omm **A**theroc **C**hipset **L**an (?) **D**river
 - scm
-  - **S**ecure **C**hannel **M**anager (Qualcomm)
+  - **S**ecure **C**hannel **M**anager (Qualcomm) [link][scm]
   - **S**ource **C**ontrol **M**anagement (git, svn)
 - smc
   - **S**ecure **M**onitor **C**all (ARM instruction used by SCM)
@@ -21,5 +21,6 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - lk
   - **L**ittle **K**ernel, used for some Qualcomm bootloaders [link][lk]
   
-  [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
-  [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
+[xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
+[lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
+[scm]: https://patchwork.kernel.org/patch/415041/

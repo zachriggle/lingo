@@ -8,6 +8,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - scm
   - **S**ecure **C**hannel **M**anager (Qualcomm) [link][scm]
   - **S**ource **C**ontrol **M**anagement (git, svn)
+- scr
+  - **S**ecure **C**onfiguration **R**egister (determines ARM EL and Normal/Secure)
 - smc
   - **S**ecure **M**onitor **C**all (ARM instruction used by SCM)
 - qseecom

@@ -25,11 +25,26 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - avc
   - **A**ccess **V**ector **C**ache (SELinux)
 - edl
-  - **E**mergency **D**ownload **M**ode (Qualcomm, protocol is Sahara)
+  - **E**mergency **D**ownload **M**ode (Qualcomm)
+    - Sahara and DLOAD and DM / QCDM protocols
 - qdm
   - **Q**ualcomm **D**iagnostic **M**onitor (`/dev/diag`?)
+- qcdm
+  - Same as **QDM**
 - qxdm
   - **Q**ualcomm e**X**tensible **D**iagnostic **M**onitor
+- laf
+  - **L**G **A**dvanced **F**lasher
+- qfprom
+  - **Q**ualcomm **F**use **P**rogrammable **ROM**
+- gdsc
+  - **G**lobal **D**istributed **S**witch **C**ontrollers (Qualcomm)
+- msm
+  - **M**obile **S**tation **M**odem (Qualcomm)
+- qsd
+  - **Q**ualcomm **S**nap**D**ragon
+- sdm
+  - **S**nap**D**ragon **M**obile (Qualcomm)
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf

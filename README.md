@@ -48,12 +48,23 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - spm
   - **S**ubsystem **P**ower **M**anagement (Qualcomm)
 - wcnss
-  - **W**ireless **C**ontrol **N**etwork **S**ub**S**ystem [link][wcnss]
+  - **W**ireless **C**ontrol **N**etwork **S**ub**S**ystem (Qualcomm) [link][wcnss]
+- smem
+  - **S**hared **Mem**ory (Qualcomm)
+- smemsm
+  - **SMEM** **S**tate **M**achine (Qualcomm) [link][smemsm]
+- gsbi
+  - **G**eneral **S**erial **B**us **I**nterface (Qualcomm)
+- qup
+  - **Q**ualcomm **U**niversal **P**eripheral Engine
+- spi
+  - **S**erial **P**eripheral **I**nterface
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
 [scm]: https://patchwork.kernel.org/patch/415041/
 [wcnss]: https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/qcom/qcom,wcnss.txt
+[smemsm]: https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/qcom/qcom%2Csmsm.txt
 
 ## TEE
 

@@ -51,18 +51,23 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **W**ireless **C**ontrol **N**etwork **S**ub**S**ystem (Qualcomm) [link][wcnss]
 - smem
   - **S**hared **Mem**ory (Qualcomm)
-- smemsm
+- smemsm, smsm
   - **SMEM** **S**tate **M**achine (Qualcomm) [link][smemsm] [link2][smemsm_lwn]
-- smsm
-  - See smemsm
 - smp2p
   - **S**hared **M**emory **P**oint-to-**P**oint (Qualcomm) [link][smp2p]
 - gsbi
   - **G**eneral **S**erial **B**us **I**nterface (Qualcomm)
 - qup
-  - **Q**ualcomm **U**niversal **P**eripheral Engine
+  - **Q**ualcomm **U**niversal **P**eripheral Engine [link][qup]
 - spi
   - **S**erial **P**eripheral **I**nterface
+- smd, qsmd
+  - **Q**ualcomm **S**hared **M**emory **D**river
+- bam
+  - **B**us **A**ccess **M**anager / **M**odule (Qualcomm] [link][bam]
+- blsp
+  - **B**AM **L**ow **S**peed **P**eripheral (Qualcomm) [link][blsp]
+- 
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
@@ -71,6 +76,9 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 [smemsm]: https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/qcom/qcom%2Csmsm.txt
 [smemsm_lwn]: https://lwn.net/Articles/655874/
 [smp2p]: http://elixir.free-electrons.com/linux/v4.7/source/drivers/soc/qcom/smp2p.c
+[qup]: https://developer.qualcomm.com/qfile/28819/lm80-p0436-5_peripherals_programming_guide.pdf
+[blsp]: https://www.inforcecomputing.com/public_docs/BLSPs_on_Inforce_6540_6501_Snapdragon_805.pdf
+[bam]: https://lwn.net/Articles/582840/
 
 ## TEE
 

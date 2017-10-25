@@ -67,7 +67,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **B**us **A**ccess **M**anager / **M**odule (Qualcomm] [link][bam]
 - blsp
   - **B**AM **L**ow **S**peed **P**eripheral (Qualcomm) [link][blsp]
-- 
+- caf
+  - **C**ode **A**urora **F**orums (Qualcomm FOSS)
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf

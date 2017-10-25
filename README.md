@@ -99,6 +99,10 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **M**obile **D**evice **T**heft **P**revention (Qualcomm)
 - avb
   - Android Verified Boot, specifically 2.0 which uses an avbmeta partition
+- ipa
+  - **I**nternet **P**acke **A**ccelerator (Qualcomm) [link][ipa]
+- ssbi
+  - **S**ingle-wire **S**erial **B**us **I**nterface
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
@@ -114,6 +118,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 [slimbus]: https://en.wikipedia.org/wiki/SLIMbus
 [slimbus_qcom]: https://android.googlesource.com/kernel/msm/+/android-msm-hammerhead-3.4-kk-r1/Documentation/devicetree/bindings/slimbus/slim-msm-ctrl.txt
 [mbn]: https://github.com/vtsingaras/qcom-mbn-ida-loader/blob/master/qcom-mbn-ida-loader.cpp
+[ipa]: https://android.googlesource.com/kernel/msm/+/android-msm-3.9-usb-and-mmc-hacks/drivers/platform/msm/Kconfig#104
+
 
 ## TEE
 

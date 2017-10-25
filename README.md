@@ -53,6 +53,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **S**hared **Mem**ory (Qualcomm)
 - smemsm
   - **SMEM** **S**tate **M**achine (Qualcomm) [link][smemsm]
+- smp2p
+  - **S**hared **M**emory **P**oint-to-**P**oint (Qualcomm) [link][smp2p]
 - gsbi
   - **G**eneral **S**erial **B**us **I**nterface (Qualcomm)
 - qup
@@ -65,6 +67,7 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 [scm]: https://patchwork.kernel.org/patch/415041/
 [wcnss]: https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/qcom/qcom,wcnss.txt
 [smemsm]: https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/qcom/qcom%2Csmsm.txt
+[smp2p]: http://elixir.free-electrons.com/linux/v4.7/source/drivers/soc/qcom/smp2p.c
 
 ## TEE
 

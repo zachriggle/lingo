@@ -24,6 +24,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **L**ittle **K**ernel, used for some Qualcomm bootloaders [link][lk]
 - avc
   - **A**ccess **V**ector **C**ache (SELinux)
+- edl
+  - **E**mergency **D**ownload **M**ode (Qualcomm)
   
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf

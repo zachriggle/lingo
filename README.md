@@ -98,8 +98,9 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - mbn
   - Qualcomm image format with signatures [link][mbn]
 - mdtp
-  - Mobile Device Theft Prevention (Qualcomm)
-
+  - **M**obile **D**evice **T**heft **P**revention (Qualcomm)
+- avb
+  - Android Verified Boot, specifically 2.0 which uses an avbmeta partition
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf

@@ -25,8 +25,12 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
 - avc
   - **A**ccess **V**ector **C**ache (SELinux)
 - edl
-  - **E**mergency **D**ownload **M**ode (Qualcomm)
-  
+  - **E**mergency **D**ownload **M**ode (Qualcomm, protocol is Sahara)
+- qdm
+  - **Q**ualcomm **D**iagnostic **M**onitor (`/dev/diag`?)
+- qxdm
+  - **Q**ualcomm e**X**tensible **D**iagnostic **M**onitor
+
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
 [scm]: https://patchwork.kernel.org/patch/415041/

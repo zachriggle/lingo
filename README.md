@@ -246,6 +246,10 @@ Taken from [here](http://blog.csdn.net/makeyourprogress/article/details/73921037
   - **Q**ualcomm **F**ront **E**nd
 - qhee
   - **Q**ualcomm **H**ypervisor **E**xecution **E**nvironment
+- qcril
+  - **Q**ualcomm **R**adio **I**nterface **L**ayer
+- hlos
+  - **H**igh **L**evel **OS** (e.g. Android)
 - qrib
   - **Q**uAC **R**e-**I**nitialization **B**lock
 - qsapps

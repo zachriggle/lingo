@@ -45,11 +45,15 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **Q**ualcomm **S**nap**D**ragon
 - sdm
   - **S**nap**D**ragon **M**obile (Qualcomm)
+- spm
+  - **S**ubsystem **P**ower **M**anagement (Qualcomm)
+- wcnss
+  - **W**ireless **C**ontrol **N**etwork **S**ub**S**ystem [link][wcnss]
 
 [xbl]: https://www.qualcomm.com/media/documents/files/secure-boot-and-image-authentication-technical-overview.pdf
 [lk]: https://developer.qualcomm.com/qfile/28821/lm80-p0436-1_little_kernel_boot_loader_overview.pdf
 [scm]: https://patchwork.kernel.org/patch/415041/
-
+[wcnss]: https://www.kernel.org/doc/Documentation/devicetree/bindings/soc/qcom/qcom,wcnss.txt
 
 ## TEE
 

@@ -79,6 +79,8 @@ When auditing a codebase, I tend to come across acronyms and then forget them ye
   - **D**igital **S**ignal **P**rocessor (e.g. Hexagon)
 - aDSP
   - **A**pplication DSP
+- slim
+  - Sensor Location Interface Module
 - slimbus
   - **S**erial **L**ow-power **I**nter-chip **M**edia **Bus** [link][slimbus] [qualcomm link][slimbus_qcom]
 - tdm

@@ -313,4 +313,6 @@ Taken from [here](http://blog.csdn.net/makeyourprogress/article/details/73921037
 - qrd
   - **Q**ualcomm **R**eference **D**esign
 - qti
-  - **Q**aulcomm **T**echnologies **I**nc
+  - **Q**ualcomm **T**echnologies **I**nc
+- qtl
+  - **Q**ualcomm **T**echnologies **L**icensing division

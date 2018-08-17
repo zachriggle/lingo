@@ -316,3 +316,6 @@ Taken from [here](http://blog.csdn.net/makeyourprogress/article/details/73921037
   - **Q**ualcomm **T**echnologies **I**nc
 - qtl
   - **Q**ualcomm **T**echnologies **L**icensing division
+- qct
+  - **Q**ual**C**omm **T**echnologies (??)
+  - **Q**ualcomm **C**DMA **T**echnologies

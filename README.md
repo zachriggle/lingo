@@ -312,4 +312,5 @@ Taken from [here](http://blog.csdn.net/makeyourprogress/article/details/73921037
   - **M**obile **T**est **P**latform
 - qrd
   - **Q**ualcomm **R**eference **D**esign
-  
+- qti
+  - **Q**aulcomm **T**echnologies **I**nc

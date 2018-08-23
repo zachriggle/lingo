@@ -4,8 +4,8 @@
 When auditing a codebase, I tend to come across acronyms and then forget them years later.  This repo is to store some of them.
 
 - qcacld
-  - **Q**ual**C**omm **A**theroc **C**hipset **L**an (?) **D**river
-  - **Q**ual**C**omm **A**theroc **C**onverged **L**inux **D**river
+  - **Q**ual**C**omm **A**theros **C**hipset **L**an (?) **D**river
+  - **Q**ual**C**omm **A**theros **C**onverged **L**inux **D**river
 - scm
   - **S**ecure **C**hannel **M**anager (Qualcomm) [link][scm]
   - **S**ource **C**ontrol **M**anagement (git, svn)
